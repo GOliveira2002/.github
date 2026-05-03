@@ -1,124 +1,180 @@
-<h1 align="center">Hey there, I'm Guilherme Oliveira 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer · Problem Solver · Continuous Learner</b><br/>
-  📍 Alhos Vedros, Portugal &nbsp;|&nbsp; 📧 gcoliveira15102002@gmail.com &nbsp;|&nbsp; 📞 +351 935 834 334
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E2D4E,100:C4714A&height=240&section=header&text=Guilherme%20Oliveira&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20·%20Co-Founder%20·%20Portugal&descAlignY=62&descSize=18&descColor=FAF7F2)
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1500&color=C4714A&center=true&vCenter=true&width=500&lines=Building+things+that+matter.;Co-Founder+%40+CodeLusitan.;Kaizen+believer.)](https://codelusitan.me)
 
-## 🧑‍💻 About Me
+<br/>
 
-I'm a motivated and detail-oriented **Full-Stack Developer** with a strong passion for building efficient, scalable, and user-focused digital solutions. My journey started in electronics and automation, passed through IT consulting, and landed me where I truly thrive — designing APIs, crafting modern interfaces, and architecting data-driven systems.
+[![Email](https://img.shields.io/badge/gcoliveira15102002%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcoliveira15102002@gmail.com)
+[![CodeLusitan](https://img.shields.io/badge/CodeLusitan-CEO_%26_CFO-C4714A?style=for-the-badge&logo=firefox&logoColor=white)](https://codelusitan.me)
 
-I believe in the **Kaizen** philosophy — small, consistent improvements that compound into something great over time. Every project, every bug, every new tech I pick up is another step forward.
+</div>
 
-When I'm not coding, you'll find me at the gym, at a Scouts activity, or deep-diving into the latest tools and technologies just for the fun of it.
+<br/>
 
----
+## &nbsp; About Me
 
-## 🚀 Experience
+I'm a **Full-Stack Developer** based in Portugal with a background that spans industrial automation, IT consulting, and modern web development. I build things that are efficient, scalable, and actually make sense to the people using them.
 
-**FullStack Developer @ INSTICC** *(Jan 2025 – Present)*
-> Designing and implementing REST APIs with clean architecture, building React interfaces with a strong focus on UX, and managing MongoDB databases with optimized queries and indexing strategies.
+I graduated in **Software Engineering** from the Polytechnic Institute of Setúbal, but most of what I know came from building real things for real clients — and breaking a few along the way.
 
-**IT Consultant @ Novaixos** *(Apr 2024 – Dec 2024)*
-> Installed and configured OpenText applications (Content Server, Archive Center, Directory Services), deployed web services (Apache Tomcat, IIS), collaborated with clients on technical solutions, and worked with SQL Server for database development and optimization.
+I live by **Kaizen** — the belief that small, consistent improvements compound into something extraordinary over time.
 
-**FullStack Developer @ China Systems / Adentis** *(May 2023 – Nov 2023)*
-> Developed and maintained web solutions for international banks using JavaScript, focusing on DOM manipulation and frontend customization. The platform handled transactions, warranties, credits, and debits — working in a Waterfall methodology with Docker, Oracle SQL, and Redmine.
+<div align="center">
 
-**Advanced Engineering Intern @ Visteon** *(2019 – 2020)*
-> Programmed microprocessors and electric boards for car cockpits.
+<br/>
 
-**Internship @ Volkswagen Autoeuropa** *(2018 – 2019)*
-> Maintained industrial machines including pneumatic cylinders and robotic arms.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilherme-oliveira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C4714A&icon_color=C4714A&text_color=cdd6f4&rank_icon=github)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C4714A&text_color=cdd6f4)
 
-**Internship @ Câmara do Barreiro** *(2017 – 2018)*
-> Maintained the city's water and electricity supply systems.
+</div>
 
----
+<br/>
 
-## 🎓 Education
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1E2D4E,100:C4714A&height=2&section=header)
 
-- 🎓 **Bachelor of Software Engineering** — Polytechnic Institute of Setúbal *(2020 – 2023)*
-- 🔧 **Electronics, Automation & Instrumentation Technician** — Professional Course *(2017 – 2020)*
+<br/>
 
----
+## &nbsp; CodeLusitan
 
-## 🛠️ Tech Stack
+<br/>
 
-### Expert
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+<div align="center">
 
-### Learning & Exploring
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+*"We don't exist to deliver code. We exist so our clients grow with technology they can trust long-term."*
 
-### Tools & Methodologies
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
-![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat)
+</div>
 
----
+<br/>
 
-## 📂 Featured Projects
+**[CodeLusitan](https://codelusitan.me)** is a Portuguese tech agency I co-founded alongside two colleagues from university. What started as a shared belief — that well-crafted technology genuinely changes businesses — turned into a company.
 
-### 🏆 SCManagement *(Dec 2022 – Apr 2023)*
-A unified web platform for sports club management — covering everything from member management to athlete training schedules. Built with `.NET/C#`, `SQL Server`, `HTML/CSS/JS`, and `Bootstrap`, following SCRUM methodology with full Jira + Confluence documentation.
-> **Final Grades:** Software 20/20 · Documentation 19/20
+As **CEO & CFO**, I bridge the gap between business and technology: strategy, clients, and financial management.
 
-### 📱 ProtectU *(Apr 2022 – May 2023)*
-An Android mobile app designed to keep users informed about global disasters and war situations. Features included live maps, a panic button, chat, war statistics, and accessibility tools — built with Android Studio.
-> **Final Grade:** 20/20
+<br/>
 
-### 🎮 Survivor *(May 2022 – Jun 2023)*
-A city-builder + action game built in **Unity**, set on an alien planet. Players build villages with defenses and mining structures, recruit crew members, and fight to survive after a spaceship crash.
-> **Final Grade:** 18/20
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1E2D4E,100:C4714A&height=2&section=header)
 
----
+<br/>
 
-## 📚 Workshops & Certifications
+## &nbsp; Experience
 
-- 🌍 **BIP – Blended Intensive Program** (Erasmus+) @ St. Pölten UAS, Austria *(May 2023)*
-- 🎨 **Accenture Digital Skills: User Experience** *(Jul 2023)*
-- 📘 Udemy: **Bootstrap & jQuery · C# · C# & SQL · JavaScript · Python & Flask** *(Jul 2023)*
+<br/>
 
----
+| Period | Role | Company |
+|--------|------|---------|
+| 2025 → now | FullStack Developer | **INSTICC** |
+| 2025 → now | CEO · CFO | **CodeLusitan** |
+| 2024 | IT Consultant | **Novaixos** |
+| 2023 | FullStack Developer | **China Systems** · via Adentis |
+| 2019 – 2020 | Advanced Engineering Intern | **Visteon** |
+| 2018 – 2019 | Maintenance Intern | **Volkswagen Autoeuropa** |
+| 2017 – 2018 | Electromechanical Intern | **Câmara do Barreiro** |
 
-## 🌍 Languages
+<br/>
 
-- 🇵🇹 **Portuguese** — Native
-- 🇬🇧 **English** — Professional working proficiency
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1E2D4E,100:C4714A&height=2&section=header)
 
----
+<br/>
 
-## 🏕️ Hobbies & Interests
+## &nbsp; Tech Stack
 
-- **Scouts** — Years of outdoor challenges built real leadership, teamwork, and adaptability in me.
-- **Gym** — Discipline and consistency at the gym translate directly into how I approach my work and goals.
-- **Tech** — I genuinely enjoy exploring new tools and technologies beyond work hours. Curiosity is a feature, not a bug.
+<br/>
 
----
+<div align="center">
 
-## 🧠 Philosophy
+**Core**
 
-> *"Kaizen"* — I believe in continuous, incremental improvement. Every day is an opportunity to be slightly better than yesterday — in code, in communication, and in life.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
----
+**Data**
 
-<p align="center">
-  <i>Thanks for stopping by! Feel free to reach out — always happy to connect. 🤝</i>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Exploring**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Workflow**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/SCRUM-1E2D4E?style=flat-square)
+![Kanban](https://img.shields.io/badge/Kanban-C4714A?style=flat-square)
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1E2D4E,100:C4714A&height=2&section=header)
+
+<br/>
+
+## &nbsp; Projects
+
+<br/>
+
+<div align="center">
+
+| Project | Description | Stack | Grade |
+|---------|-------------|-------|-------|
+| **SCManagement** | Unified sports club management platform | `C#` `SQL Server` `Bootstrap` | ⭐ 20/20 |
+| **ProtectU** | Disaster awareness Android app with live maps & panic button | `Android` `Java` | ⭐ 20/20 |
+| **Survivor** | City-builder action game set on an alien planet | `Unity` `C#` | ⭐ 18/20 |
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1E2D4E,100:C4714A&height=2&section=header)
+
+<br/>
+
+## &nbsp; Beyond the Code
+
+<br/>
+
+🏕️ &nbsp;**Scouts** — Years of outdoor leadership, problem-solving, and community built who I am before any IDE did.
+
+🏋️ &nbsp;**Gym** — Discipline and consistency at the gym translate directly into how I approach my work.
+
+💡 &nbsp;**Tech** — Genuinely curious about what's next. I explore tools and ideas outside work hours because I enjoy it, not because I have to.
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1E2D4E,100:C4714A&height=2&section=header)
+
+<br/>
+
+## &nbsp; Certifications
+
+<br/>
+
+🌍 &nbsp;**BIP Erasmus+** — St. Pölten UAS, Austria · Metaverse & Interfaces *(2023)*
+
+🎨 &nbsp;**Accenture Digital Skills: User Experience** *(2023)*
+
+📘 &nbsp;**Udemy** — Bootstrap & jQuery · C# · C# & SQL · JavaScript · Python & Flask *(2023)*
+
+<br/>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C4714A,100:1E2D4E&height=140&section=footer)
+
+</div>
