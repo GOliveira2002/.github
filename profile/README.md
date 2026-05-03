@@ -25,10 +25,6 @@ I live by **Kaizen** — the belief that small, consistent improvements compound
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilherme-oliveira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C4714A&icon_color=C4714A&text_color=cdd6f4&rank_icon=github)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C4714A&text_color=cdd6f4)
-
 </div>
 
 <br/>
