@@ -132,6 +132,7 @@ As **CEO & CFO**, I bridge the gap between business and technology: strategy, cl
 | **SCManagement** | Unified sports club management platform | `C#` `SQL Server` `Bootstrap` | ⭐ 20/20 |
 | **ProtectU** | Disaster awareness Android app with live maps & panic button | `Android` `Java` | ⭐ 20/20 |
 | **Survivor** | City-builder action game set on an alien planet | `Unity` `C#` | ⭐ 18/20 |
+| **HELM** | Project Management command base | `NextJS``PostgreSQL``FastAPI` | Developing |
 
 </div>
 
